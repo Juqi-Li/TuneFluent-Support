@@ -1,7 +1,6 @@
 <div align="center">
   <a href="#中文">中文</a> | <a href="#english">English</a>
-  
-  ![Tune Fluent Logo](https://github.com/Juqi-Li/TuneFluent-Support/blob/main/AppIcon.png)
+  <img src="https://github.com/Juqi-Li/TuneFluent-Support/blob/main/AppIcon.png"  width="256" height="256" alt="Tune Fluent Logo">
   
   # Tune Fluent - Ear Training Assistant 🎵
   
