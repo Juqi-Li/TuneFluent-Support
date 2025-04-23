@@ -72,7 +72,7 @@
 + Composers：	Chord color sensitivity training
 + Instrument Learners：Precision pitch memory building
 
-#### 📞 联系我们
+#### 📞 Contact
 | Channel | Details |
 |-----|-----|
 | 🐧 QQ Group | 592139543 |
